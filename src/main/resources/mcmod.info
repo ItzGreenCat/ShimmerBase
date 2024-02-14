@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shimmer",
+  "name": "ShimmerClient",
+  "description": "java.lang.IOException",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["manuthebyte", "ExampleModDev"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

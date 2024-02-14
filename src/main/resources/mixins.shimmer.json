@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "me.greencat.shimmer.mixins",
+  "refmap": "mixins.shimmer.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinGuiMainMenu",
+    "MixinMinecraft"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "MixinConfigInstance",
+    "MixinSplashScreen",
+    "ScreenManagerAccessor"
+  ]
+}
